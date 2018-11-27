@@ -1,0 +1,4 @@
+baseURL = "https://batch8.github.io/"
+languageCode = "en-us"
+title = "batch.com"
+theme = "coder"
